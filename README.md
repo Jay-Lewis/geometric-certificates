@@ -1,6 +1,6 @@
 # GeoCert
 
-Geometric-inspired algorithm for solving the general problem of finding the largest l_p ball centered at a point x for a union of polytopes which form a polyhedral complex. This algorithm is provably correct for p equal or larger than 1. Primary application found in certifying the adversarial robustness of multilayer ReLu networks. Created by [Matt Jordan](https://cs.utexas.edu/~mjordan) and Justin Lewis. 
+Geometric-inspired algorithm for solving the general problem of finding the largest l_p ball centered at a point x for a union of polytopes which form a polyhedral complex. This algorithm is provably correct for p equal or larger than 1. Primary application found in certifying the adversarial robustness of multilayer ReLu networks. Created by Matt Jordan and [Justin Lewis](https://github.com/Jay-Lewis). 
 
 Check out our paper on arXiv: [Provable Certificates for Adversarial Examples: Fitting a Ball in the Union of Polytopes](https://arxiv.org/abs/1903.08778).
 
